@@ -1,7 +1,7 @@
--Chinese:
+- Chinese:
 - 我是幻影C261
 - 什么也不会
--English:
+- English:
 - I'm PhantomC261
 - I can't do anything
 - just this
