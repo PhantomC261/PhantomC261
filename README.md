@@ -4,7 +4,7 @@
 - English:
 - I'm PhantomC261
 - I can't do anything
-- that's it
+- That's all
 ------------------------------
 <!---
 PhantomC261/PhantomC261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
